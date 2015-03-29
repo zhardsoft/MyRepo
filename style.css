@@ -1,0 +1,56 @@
+body {
+	background:#FFFFFF;
+	padding-top:20px;
+}
+.table-aktivasi {
+	
+}
+.title-aktivasi {
+	color:#cba41b;
+	font-size:22px;
+}
+.submit-aktivasi {
+	background:#499300;
+	color:#FFFFFF;
+	border:0px;
+	width:60px;
+	height:40px;
+	cursor:pointer;
+	float:right;
+}
+.error {
+	border:1px solid #f65346;
+	width:500px;
+	height:30px;
+	padding-top:3px;
+	color:#f23d2f;
+	margin-bottom:10px;
+	border-radius:10px 10px 10px 10px;
+}
+.success {
+	border:1px solid #23c72b;
+	width:500px;
+	height:30px;
+	padding-top:3px;
+	color:#23c72b;
+	margin-bottom:10px;
+	border-radius:10px 10px 10px 10px;
+}
+.warn {
+	border:1px solid #0db3f0;
+	width:500px;
+	height:30px;
+	padding-top:3px;
+	color:#0db3f0;
+	margin-bottom:10px;
+	border-radius:10px 10px 10px 10px;
+}
+#frm-act{
+	visibility:hidden;
+	width:0px;
+	height:0px;
+	border:0px;
+}
+@media screen and (max-width: 768px) {
+	
+}
